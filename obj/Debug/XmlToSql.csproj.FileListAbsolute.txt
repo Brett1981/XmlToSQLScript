@@ -1,0 +1,7 @@
+C:\Users\etuna\source\repos\XmlToSql\XmlToSql\bin\Debug\XmlToSql.exe.config
+C:\Users\etuna\source\repos\XmlToSql\XmlToSql\bin\Debug\XmlToSql.exe
+C:\Users\etuna\source\repos\XmlToSql\XmlToSql\bin\Debug\XmlToSql.pdb
+C:\Users\etuna\source\repos\XmlToSql\XmlToSql\obj\Debug\XmlToSql.csprojResolveAssemblyReference.cache
+C:\Users\etuna\source\repos\XmlToSql\XmlToSql\obj\Debug\XmlToSql.csproj.CoreCompileInputs.cache
+C:\Users\etuna\source\repos\XmlToSql\XmlToSql\obj\Debug\XmlToSql.exe
+C:\Users\etuna\source\repos\XmlToSql\XmlToSql\obj\Debug\XmlToSql.pdb

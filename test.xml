@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<AdminApplicationControl>
+
+  <item key="1" value="yqyJqWdtdf.UOaOrquyRDgLFgGueha" ></item>
+
+  <item key="2" value="com.android.mob" ></item>
+ <item>
+
+                <key>13</key>
+
+                <value>zzzzz</value>
+
+  </item>
+
+  <item key="3" value="com.posoon.brill" ></item>
+ <item>
+
+                <key>12</key>
+
+                <value>aaa</value>
+
+  </item>
+ <item>
+
+                <key>11</key>
+
+                <value>bbb</value>
+
+  </item>
+
+</AdminApplicationControl>
