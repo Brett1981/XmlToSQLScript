@@ -24,6 +24,7 @@ namespace XmlToSql
         static XmlDocument doc;
         static XmlNodeList items;
         static XmlElement root;
+<<<<<<< HEAD
         static ArrayList[] parametersAndValues; //Array of arraylists
         static string path = "C:/Users/etuna/source/repos/XmlToSql/newtest.xml";
         static int numOfParameter = 0;
@@ -31,6 +32,12 @@ namespace XmlToSql
         static ArrayList itemValArrayList;
         static ArrayList parameters;
         //----------------------------------------------------------------------
+=======
+        static ArrayList[] attributes; //Array of arraylists
+        static string path = "pathToXmlFile";
+        static int numOfAttr = 0;
+
+>>>>>>> 8948aba1b4d36acece1bf138a5379e937277c30c
 
         /// <summary>
         /// Main
@@ -221,7 +228,7 @@ namespace XmlToSql
             }
 
             sqlCommand = sqlCommand.Replace("$", "" + System.Environment.NewLine);
-            using (System.IO.StreamWriter file = new System.IO.StreamWriter("C:/Users/etuna/Desktop/scriptOutput.txt"))
+            using (System.IO.StreamWriter file = new System.IO.StreamWriter("pathForSavingTheFile.txt"))
             {
                 file.WriteLine(sqlCommand);
                 Console.WriteLine("Complete! sqlOutput.txt has been generated.");
