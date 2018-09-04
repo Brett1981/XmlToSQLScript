@@ -67,7 +67,7 @@ namespace XmlToSql
         }
 
         /// <summary>
-        /// It gets items given a XmlDocument
+        /// It gets items given an XmlDocument
         /// </summary>
         /// <param name="document"></param>
         /// <returns></returns>
@@ -104,7 +104,6 @@ namespace XmlToSql
              * numOfParameter : Columns of the table
              * parameters : the array of arraylists
              * each element of parameters stores the data of related column, column name is given as the first element of each different arraylist
-             * 
              */
             XmlNode aChild = items[0];
 
